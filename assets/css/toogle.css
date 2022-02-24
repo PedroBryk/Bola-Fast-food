@@ -31,7 +31,23 @@
     display: none;
 }
 
+.logo{
+    padding-left: 6%;
+}
+
+.navegacao{
+    padding-right: 6%;
+}
+
     @media(max-width: 600px) {
+
+        .logo{
+            padding-left: 2%;
+        }
+        
+        .navegacao{
+            padding-right: 2%;
+        }
 
         .btnmobile{
             display: flex;
