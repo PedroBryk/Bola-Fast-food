@@ -1,0 +1,7 @@
+.hamburguer-animation{
+    background-color: #0D0C07;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
